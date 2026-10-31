@@ -1,0 +1,32 @@
+[
+  {
+    "record_count":20000,
+    "generation_time_s":0.312,
+    "ingest_parquet_time_s":0.589,
+    "total_pipeline_time_s":0.901,
+    "throughput_records_s":22202,
+    "aggregation_query_s":0.5826,
+    "filtered_query_s":0.2469,
+    "parquet_size_mb":1.75
+  },
+  {
+    "record_count":50000,
+    "generation_time_s":0.769,
+    "ingest_parquet_time_s":0.768,
+    "total_pipeline_time_s":1.537,
+    "throughput_records_s":32528,
+    "aggregation_query_s":0.0892,
+    "filtered_query_s":0.0878,
+    "parquet_size_mb":4.23
+  },
+  {
+    "record_count":100000,
+    "generation_time_s":1.527,
+    "ingest_parquet_time_s":0.833,
+    "total_pipeline_time_s":2.36,
+    "throughput_records_s":42372,
+    "aggregation_query_s":0.0832,
+    "filtered_query_s":0.0972,
+    "parquet_size_mb":8.3
+  }
+]

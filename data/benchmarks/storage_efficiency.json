@@ -1,0 +1,12 @@
+{
+  "record_count": 50000,
+  "csv_size_mb": 7.64,
+  "parquet_snappy_size_mb": 4.38,
+  "parquet_gzip_size_mb": 3.03,
+  "snappy_compression_ratio": 1.74,
+  "gzip_compression_ratio": 2.52,
+  "csv_write_time_sec": 0.26,
+  "snappy_write_time_sec": 2.77,
+  "gzip_write_time_sec": 1.31,
+  "storage_savings_pct": 42.6
+}
